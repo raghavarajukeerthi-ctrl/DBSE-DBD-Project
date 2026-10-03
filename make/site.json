@@ -1,0 +1,11 @@
+{
+  "title": "GoVeya",
+  "description": "This web application provides users with an intuitive platform to create, customize, and manage their own websites effortlessly, enhancing online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
